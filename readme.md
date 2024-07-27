@@ -7,7 +7,7 @@ A simple and efficient rate limiter for controlling the rate of function executi
 To install the RateLimiter package, run the following command:
 
 ```bash
-npm install --save rateLimiter
+npm install --save rate-limiter-pro
 ```
 ## Usage
 1.Include rate limiter from package.

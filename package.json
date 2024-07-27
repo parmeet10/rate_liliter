@@ -1,5 +1,5 @@
 {
-  "name": "ratelimiter",
+  "name": "rate-limiter-pro",
   "version": "1.0.0",
   "description": "A simple and efficient rate limiter for controlling the rate of function executions, designed for ease of use and high performance.",
   "main": "index.js",
