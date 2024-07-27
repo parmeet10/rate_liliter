@@ -1,0 +1,19 @@
+{
+  "name": "ratelimiter",
+  "version": "1.0.0",
+  "description": "A simple and efficient rate limiter for controlling the rate of function executions, designed for ease of use and high performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " nodemon index.js"
+  },
+  "keywords": [
+    "ratelimiter",
+    "request",
+    "ip",
+    "blocking",
+    "reject"
+  ],
+  "author": "Parmeet Singh",
+  "license": "ISC"
+}
